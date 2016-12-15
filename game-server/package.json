@@ -1,0 +1,9 @@
+{
+    "name":"pomelo-agar.io",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo-fresh":"1.3.4"
+    }
+}
+
